@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm @VisaganS</h1>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+<h1 align="center">Hey there 👋, I'm @VisaganS</h1>
 <h3 align="center">A passionate software developer and AI enthusiast from India</h3>
 
 - 👀 I’m interested in AI & ML🤖, Python, Flutter, Cyber Security, Cyber Forensics and Full Stack Development.
