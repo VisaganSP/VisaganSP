@@ -9,6 +9,8 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+<hr>
+
 ### :woman_technologist: About Me :
 
 - 👀 I’m interested in AI & ML🤖, Python, Flutter, Cyber Security, Cyber Forensics and Full Stack Development.
