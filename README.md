@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   I'm Visagan S
 </h1>
-<h3 align="center">A passionate software developer and AI enthusiast from India</h3>
+<h3 align="center">A passionate software engineer and AI enthusiast from India</h3>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
